@@ -120,10 +120,10 @@ export const siteConfig: SiteConfig = {
 				"/assets/desktop-banner/p8.png",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/mobile-banner/1.webp",
-				"/assets/mobile-banner/2.webp",
-				"/assets/mobile-banner/3.webp",
-				"/assets/mobile-banner/4.webp",
+				"/assets/mobile-banner/p12.jpg",
+				"/assets/mobile-banner/p10.jpg",
+				"/assets/mobile-banner/p11.png",
+				"assets/mobile-banner/senjogahala.png",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
