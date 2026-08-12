@@ -36,9 +36,9 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Takiyu",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
-		icon: "assets/home/wiki-icon.png",
+		icon: "assets/home/wiki-icon.webp",
 		// 网站Logo图片路径
-		logo: "assets/home/wiki-icon.png",
+		logo: "assets/home/wiki-icon.webp",
 	},
 
 	// 页面自动缩放配置
