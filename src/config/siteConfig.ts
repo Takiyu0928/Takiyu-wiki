@@ -43,7 +43,7 @@ export const siteConfig: SiteConfig = {
 
 	// 页面自动缩放配置
 	pageScaling: {
-		enable: true, // 是否开启自动缩放
+		enable: false, // 是否开启自动缩放
 		targetWidth: 2000, // 目标宽度，低于此宽度时开始缩放
 	},
 
