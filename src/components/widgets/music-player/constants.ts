@@ -22,38 +22,6 @@ export const DEFAULT_COVER_URL = "/favicon/favicon.ico";
 export const LOCAL_PLAYLIST: Song[] = [
 	{
 		id: 1,
-		title: "口笛で愛は歌えない",
-		artist: "Dazbee",
-		cover: dazbeeCover,
-		url: "assets/music/url/dazbee.mp3",
-		duration: 241,
-	},
-	{
-		id: 2,
-		title: "ひとり上手",
-		artist: "Kaya",
-		cover: hitoriCover,
-		url: "assets/music/url/hitori.mp3",
-		duration: 253,
-	},
-	{
-		id: 3,
-		title: "眩耀夜行",
-		artist: "スリーズブーケ",
-		cover: xryxCover,
-		url: "assets/music/url/xryx.mp3",
-		duration: 245,
-	},
-	{
-		id: 4,
-		title: "春雷の頃",
-		artist: "22/7",
-		cover: clCover,
-		url: "assets/music/url/cl.mp3",
-		duration: 242,
-	},
-	{
-		id: 5,
 		title: "春泥棒",
 		artist: "ヨルシカ",
 		cover: sousakuCover,
@@ -61,7 +29,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		duration: 290,
 	},
 	{
-		id: 6,
+		id: 2,
 		title: "雨とカプチーノ",
 		artist: "ヨルシカ",
 		cover: elmaCover,
@@ -69,7 +37,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		duration: 272,
 	},
 	{
-		id: 7,
+		id: 3,
 		title: "嘘月",
 		artist: "ヨルシカ",
 		cover: sousakuCover,
@@ -77,7 +45,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		duration: 290,
 	},
 	{
-		id: 8,
+		id: 4,
 		title: "靴の花火",
 		artist: "ヨルシカ",
 		cover: kutsuNoHanabiCover,
@@ -85,7 +53,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		duration: 305,
 	},
 	{
-		id: 9,
+		id: 5,
 		title: "老人と海",
 		artist: "ヨルシカ",
 		cover: gentouCover,
@@ -93,7 +61,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		duration: 257,
 	},
 	{
-		id: 10,
+		id: 6,
 		title: "花人局",
 		artist: "ヨルシカ",
 		cover: tousakuCover,
